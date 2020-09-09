@@ -3,15 +3,15 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Suvarna.mpd
-#EXTINF:-1 tvg-id="370" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" group-title="JioTV+  (TiviMate)",Suvarna HD
+#EXTINF:-1 tvg-id="370" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" group-title="Kannada",Suvarna HD
 http://drm.indtv.online/jiotvplus/Suvarna.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Suvarna_Plus_SD.mpd
-#EXTINF:-1 tvg-id="1140" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus_SD.png" group-title="JioTV+  (TiviMate)",Suvarna Plus SD
+#EXTINF:-1 tvg-id="1140" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus_SD.png" group-title="Kannada",Suvarna Plus SD
 http://drm.indtv.online/jiotvplus/Suvarna_Plus_SD.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Suvarna_SD.mpd
-#EXTINF:-1 tvg-id="1117" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_SD.png" group-title="JioTV+  (TiviMate)",Suvarna
+#EXTINF:-1 tvg-id="1117" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_SD.png" group-title="Kannada",Suvarna
 http://drm.indtv.online/jiotvplus/Suvarna_SD.mpd|user-agent="KAIOS"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -21,33 +21,33 @@ https://drm.indtv.online/jiotvplus/Suvarna_News.mpd|user-agent="KAIOS"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.indtv.online/airteltv/zeekannadahd.mpd
-#EXTINF:-1 tvg-id="Zee Kannada HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1018/LOGO/e712404d-07ec-46c8-acec-e27cb39fcbd5.jpg" group-title="Airtel TV (Tivimate)",Zee Kannada HD
+#EXTINF:-1 tvg-id="Zee Kannada HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1018/LOGO/e712404d-07ec-46c8-acec-e27cb39fcbd5.jpg" group-title="Kannada",Zee Kannada HD
 https://drm.indtv.online/airteltv/zeekannadahd.mpd
 
 
-#EXTINF:-1 tvg-id="30846" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg" group-title="SunNXT",Udaya TV HD
+#EXTINF:-1 tvg-id="30846" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg" group-title="Kannada",Udaya TV HD
 http://indtv.online/sunnxt/sunfun/UdayaTVHD.m3u8
-#EXTINF:-1 tvg-id="9029" tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" group-title="SunNXT",Udaya TV
+#EXTINF:-1 tvg-id="9029" tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" group-title="Kannada",Udaya TV
 http://indtv.online/sunnxt/sunfun/UdayaTV.m3u8
-#EXTINF:-1 tvg-id="9022" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" group-title="SunNXT",Udaya Music
+#EXTINF:-1 tvg-id="9022" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" group-title="Kannada",Udaya Music
 http://indtv.online/sunnxt/sunfun/UdayaMusic.m3u8
-#EXTINF:-1 tvg-id="26576" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" group-title="SunNXT",Udaya Movies
+#EXTINF:-1 tvg-id="26576" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" group-title="Kannada",Udaya Movies
 http://indtv.online/sunnxt/sunfun/UdayaMovies.m3u8
-#EXTINF:-1 tvg-id="9014" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="SunNXT",Udaya Comedy
+#EXTINF:-1 tvg-id="9014" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="Kannada",Udaya Comedy
 http://indtv.online/sunnxt/sunfun/UdayaComedy.m3u8
-#EXTINF:-1 tvg-id="26577" tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" group-title="SunNXT",Chintu TV
+#EXTINF:-1 tvg-id="26577" tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" group-title="Kannada",Chintu TV
 http://indtv.online/sunnxt/sunfun/ChintuTV.m3u8
 
 
-#EXTINF:-1 tvg-id="Udaya TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_956/LOGO/lSekdtvD.png" group-title="Airtel FTA",Udaya TV
+#EXTINF:-1 tvg-id="Udaya TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_956/LOGO/lSekdtvD.png" group-title="Kannada",Udaya TV
 http://indtv.online/airtel/udayatv.m3u8
-#EXTINF:-1 tvg-id="Udaya Movies" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_959/LOGO/tvRtvi1Y.png" group-title="Airtel FTA",Udaya Movies
+#EXTINF:-1 tvg-id="Udaya Movies" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_959/LOGO/tvRtvi1Y.png" group-title="Kannada",Udaya Movies
 http://indtv.online/airtel/udayamovies.m3u8
-#EXTINF:-1 tvg-id="Udaya Music" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_955/LOGO/7lufh4gQ.png" group-title="Airtel FTA",Udaya Music
+#EXTINF:-1 tvg-id="Udaya Music" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_955/LOGO/7lufh4gQ.png" group-title="Kannada",Udaya Music
 http://indtv.online/airtel/udayamusic.m3u8
-#EXTINF:-1 tvg-id="Udaya Comedy" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_972/LOGO/mGd2hfSa.png" group-title="Airtel FTA",Udaya Comedy
+#EXTINF:-1 tvg-id="Udaya Comedy" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_972/LOGO/mGd2hfSa.png" group-title="Kannada",Udaya Comedy
 http://indtv.online/airtel/udayacomedy.m3u8
-#EXTINF:-1 tvg-id="Udaya HD" group-title="Airtel FTA",Udaya HD
+#EXTINF:-1 tvg-id="Udaya HD" group-title="Kannada",Udaya HD
 http://indtv.online/airtel/udayahd.m3u8
 
 
@@ -89,3 +89,147 @@ http://indtv.online/jiotv/jtv/Sonic_Kannada.m3u8
 #EXTINF:-1 tvg-id="1244" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Kannada",Nick Kannada
 http://indtv.online/jiotv/jtv/Nick_Kannada.m3u8
 
+
+
+#EXTINF:-1 group-title="Telugu",
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Maa_HD.mpd
+#EXTINF:-1 tvg-id="1112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Telugu",Maa HD
+http://drm.indtv.online/jiotvplus/Maa_HD.mpd|user-agent="KAIOS"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Maa_TV_SD.mpd
+#EXTINF:-1 tvg-id="1138" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV_SD.png" group-title="Telugu",Maa TV SD
+http://drm.indtv.online/jiotvplus/Maa_TV_SD.mpd|user-agent="KAIOS"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Maa_Movies.mpd
+#EXTINF:-1 tvg-id="760" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Telugu",Maa Movies HD
+http://drm.indtv.online/jiotvplus/Maa_Movies.mpd|user-agent="KAIOS"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Maa_Movies_HD.mpd
+#EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Telugu",Maa Movies
+http://drm.indtv.online/jiotvplus/Maa_Movies_HD.mpd|user-agent="KAIOS"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Maa_Gold_SD.mpd
+#EXTINF:-1 tvg-id="1137" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold_SD.png" group-title="Telugu",Maa Gold SD
+http://drm.indtv.online/jiotvplus/Maa_Gold_SD.mpd|user-agent="KAIOS"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Maa_Music.mpd
+#EXTINF:-1 tvg-id="1129" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Telugu",Maa Music
+http://drm.indtv.online/jiotvplus/Maa_Music.mpd|user-agent="KAIOS"
+
+#EXTINF:-1 tvg-id="14019" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Telugu",Gemini TV HD
+http://indtv.online/sunnxt/sunfun/GeminiTVHD.m3u8
+#EXTINF:-1 tvg-id="26570" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Telugu",Gemini Movies HD
+http://indtv.online/sunnxt/sunfun/GeminiMoviesHD.m3u8
+#EXTINF:-1 tvg-id="26568" tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="Telugu",Gemini Music HD
+http://indtv.online/sunnxt/sunfun/GeminiMusicHD.m3u8
+#EXTINF:-1 tvg-id="9026" tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" group-title="Telugu",Gemini Music
+http://indtv.online/sunnxt/sunfun/GeminiMusic.m3u8
+#EXTINF:-1 tvg-id="9015" tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" group-title="Telugu",Gemini Movies
+http://indtv.online/sunnxt/sunfun/GeminiMovies.m3u8
+#EXTINF:-1 tvg-id="26572" tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="Telugu",Gemini Life
+http://indtv.online/sunnxt/sunfun/GeminiLife.m3u8
+#EXTINF:-1 tvg-id="9027" tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="Telugu",Gemini Comedy
+http://indtv.online/sunnxt/sunfun/GeminiComedy.m3u8
+#EXTINF:-1 tvg-id="9017" tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" group-title="Telugu",Gemini TV
+http://indtv.online/sunnxt/sunfun/GeminiTV.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="Telugu",TV9 Telugu
+http://indtv.online/jiotv/jtv/TV9_Telugu_News.m3u8
+#EXTINF:-1 tvg-id="638" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Telugu",Zee Telugu
+http://indtv.online/jiotv/jtv/Zee_Telugu.m3u8
+#EXTINF:-1 tvg-id="413" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu",Zee Cinemalu
+http://indtv.online/jiotv/jtv/Zee_Cinemalu.m3u8
+#EXTINF:-1 tvg-id="629" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Telugu",ETV Telugu
+http://indtv.online/jiotv/jtv/ETV_Telugu.m3u8
+#EXTINF:-1 tvg-id="632" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="Telugu",Sakshi tv
+http://indtv.online/jiotv/jtv/Sakshi_tv.m3u8
+#EXTINF:-1 tvg-id="646" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="Telugu",NTV
+http://indtv.online/jiotv/jtv/NTV.m3u8
+#EXTINF:-1 tvg-id="543" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Telugu",Nick Telugu
+http://indtv.online/jiotv/jtv/Nick_Telugu.m3u8
+#EXTINF:-1 tvg-id="576" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Telugu",Discovery Channel Telugu
+http://indtv.online/jiotv/jtv/Discovery_Channel_Telugu.m3u8
+#EXTINF:-1 tvg-id="577" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Telugu",History TV18 HD Telugu
+http://indtv.online/jiotv/jtv/History_18_Telugu.m3u8
+#EXTINF:-1 tvg-id="854" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Telugu",Sony BBC Earth HD Telugu
+http://indtv.online/jiotv/jtv/Sony_BBC_Earth_HD_Telugu.m3u8
+#EXTINF:-1 tvg-id="565" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Telugu",ETV Abhiruchi
+http://indtv.online/jiotv/jtv/ETV_Abhiruchi.m3u8
+#EXTINF:-1 tvg-id="776" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Telugu",Bhakti TV
+http://indtv.online/jiotv/jtv/Bhakti_TV.m3u8
+#EXTINF:-1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Telugu",Sri Venkateshwar Bhakti
+http://indtv.online/jiotv/jtv/Sri_Venkateshwar_Bhakti.m3u8
+#EXTINF:-1 tvg-id="772" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Telugu",CVR OM Spiritual
+http://indtv.online/jiotv/jtv/CVR_OM_Spiritual.m3u8
+#EXTINF:-1 tvg-id="777" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="Telugu",Aradhana TV
+http://indtv.online/jiotv/jtv/Aradhana_TV.m3u8
+#EXTINF:-1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title="Telugu",Hindu Dharmam
+http://indtv.online/jiotv/jtv/Hindu_Dharmam.m3u8
+#EXTINF:-1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="Telugu",Subhavartha TV
+http://indtv.online/jiotv/jtv/Subhavartha_TV.m3u8
+#EXTINF:-1 tvg-id="934" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Telugu",Divya Vani
+http://indtv.online/jiotv/jtv/Divya_Vani.m3u8
+#EXTINF:-1 tvg-id="977" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="Telugu",Calvary
+http://indtv.online/jiotv/jtv/Calvary.m3u8
+#EXTINF:-1 tvg-id="692" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Telugu",ETV Plus
+http://indtv.online/jiotv/jtv/ETV_Plus.m3u8
+#EXTINF:-1 tvg-id="706" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Telugu",DD Saptagiri
+http://indtv.online/jiotv/jtv/DD_Saptagiri.m3u8
+#EXTINF:-1 tvg-id="734" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Telugu",Vissa TV
+http://indtv.online/jiotv/jtv/Vissa_TV.m3u8
+#EXTINF:-1 tvg-id="252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Telugu",ETV Cinema
+http://indtv.online/jiotv/jtv/ETV_Cinema.m3u8
+#EXTINF:-1 tvg-id="666" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="Telugu",ABN Andhra Jyothi
+http://indtv.online/jiotv/jtv/ABN_Andhra_Jyothi.m3u8
+#EXTINF:-1 tvg-id="769" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="Telugu",V6 News
+http://indtv.online/jiotv/jtv/V6_News.m3u8
+#EXTINF:-1 tvg-id="614" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="Telugu",ETV Andhra pradesh
+http://indtv.online/jiotv/jtv/ETV_Andhra_pradesh.m3u8
+#EXTINF:-1 tvg-id="737" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Telugu",Raj Music Telugu
+http://indtv.online/jiotv/jtv/Raj_Music_Telugu.m3u8
+#EXTINF:-1 tvg-id="832" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="Telugu",10 TV
+http://indtv.online/jiotv/jtv/10_TV.m3u8
+#EXTINF:-1 tvg-id="668" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="Telugu",TV 5 News
+http://indtv.online/jiotv/jtv/TV_5_News.m3u8
+#EXTINF:-1 tvg-id="784" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="Telugu",CVR News
+http://indtv.online/jiotv/jtv/CVR_News.m3u8
+#EXTINF:-1 tvg-id="667" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="Telugu",T News
+http://indtv.online/jiotv/jtv/T_News.m3u8
+#EXTINF:-1 tvg-id="630" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="Telugu",ETV Telangana
+http://indtv.online/jiotv/jtv/ETV_Telangana.m3u8
+#EXTINF:-1 tvg-id="800" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="Telugu",Maha News
+http://indtv.online/jiotv/jtv/Maha_News.m3u8
+#EXTINF:-1 tvg-id="665" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="Telugu",HM TV
+http://indtv.online/jiotv/jtv/HM_TV.m3u8
+#EXTINF:-1 tvg-id="166" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="Telugu",Cartoon Network Telugu
+http://indtv.online/jiotv/jtv/Cartoon_Network_Telugu.m3u8
+#EXTINF:-1 tvg-id="570" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Telugu",ETV Life
+http://indtv.online/jiotv/jtv/ETV_Life.m3u8
+#EXTINF:-1 tvg-id="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Telugu",Vanitha
+http://indtv.online/jiotv/jtv/Vanitha.m3u8
+#EXTINF:-1 tvg-id="774" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="Telugu",CVR Health
+http://indtv.online/jiotv/jtv/CVR_Health.m3u8
+#EXTINF:-1 tvg-id="581" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV1.png" group-title="Telugu",TV1
+http://indtv.online/jiotv/jtv/TV1.m3u8
+#EXTINF:-1 tvg-id="790" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="Telugu",I News
+http://indtv.online/jiotv/jtv/I_News.m3u8
+#EXTINF:-1 tvg-id="1147" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mojo_TV.png" group-title="Telugu",Mojo TV
+http://indtv.online/jiotv/jtv/Mojo_TV.m3u8
+#EXTINF:-1 tvg-id="664" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="Telugu",Raj News Telugu
+http://indtv.online/jiotv/jtv/Raj_News_Telugu.m3u8
+#EXTINF:-1 tvg-id="874" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Telugu",Sony Yay Telugu
+http://indtv.online/jiotv/jtv/Sony_Yay_Telugu.m3u8
+#EXTINF:-1 tvg-id="1080" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Telugu",CN HD+ Telugu
+http://indtv.online/jiotv/jtv/CN_HD_Telugu.m3u8
+#EXTINF:-1 tvg-id="758" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Telugu",Maa TV HD
+http://hotstar.live.cdn.jio.com/hotstar_isl/maatv/master_800.m3u8|user-agent="Hotstar"
+#EXTINF:-1 tvg-id="759" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Telugu",Maa Gold HD
+http://hotstar.live.cdn.jio.com/hotstar_isl/maagold/master_800.m3u8|user-agent="Hotstar"
+#EXTINF:-1 tvg-id="1242" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Telugu",Sonic Telugu
+http://indtv.online/jiotv/jtv/Sonic_Telugu.m3u8
+#EXTINF:-1 tvg-id="1254" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Telugu",Aastha Telugu
+http://indtv.online/jiotv/jtv/Aastha_Telugu.m3u8
+#EXTINF:-1 tvg-id="1274" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="Telugu",Studio One
+http://indtv.online/jiotv/jtv/Studio_One.m3u8
