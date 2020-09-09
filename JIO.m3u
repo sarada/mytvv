@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kannada",
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Suvarna.mpd
+#EXTINF:-1 tvg-id="370" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" group-title="JioTV+  (TiviMate)",Suvarna HD
+http://drm.indtv.online/jiotvplus/Suvarna.mpd|user-agent="KAIOS"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Suvarna_Plus_SD.mpd
+#EXTINF:-1 tvg-id="1140" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus_SD.png" group-title="JioTV+  (TiviMate)",Suvarna Plus SD
+http://drm.indtv.online/jiotvplus/Suvarna_Plus_SD.mpd|user-agent="KAIOS"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Suvarna_SD.mpd
+#EXTINF:-1 tvg-id="1117" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_SD.png" group-title="JioTV+  (TiviMate)",Suvarna
+http://drm.indtv.online/jiotvplus/Suvarna_SD.mpd|user-agent="KAIOS"
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.indtv.online/jiotvplus/Suvarna_News.mpd
+#EXTINF:-1 tvg-id="626" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="Kannada",Suvarna News
+https://drm.indtv.online/jiotvplus/Suvarna_News.mpd|user-agent="KAIOS"
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.indtv.online/airteltv/zeekannadahd.mpd
+#EXTINF:-1 tvg-id="Zee Kannada HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1018/LOGO/e712404d-07ec-46c8-acec-e27cb39fcbd5.jpg" group-title="Airtel TV (Tivimate)",Zee Kannada HD
+https://drm.indtv.online/airteltv/zeekannadahd.mpd
+
+
+#EXTINF:-1 tvg-id="30846" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg" group-title="SunNXT",Udaya TV HD
+http://indtv.online/sunnxt/sunfun/UdayaTVHD.m3u8
+#EXTINF:-1 tvg-id="9029" tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" group-title="SunNXT",Udaya TV
+http://indtv.online/sunnxt/sunfun/UdayaTV.m3u8
+#EXTINF:-1 tvg-id="9022" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" group-title="SunNXT",Udaya Music
+http://indtv.online/sunnxt/sunfun/UdayaMusic.m3u8
+#EXTINF:-1 tvg-id="26576" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" group-title="SunNXT",Udaya Movies
+http://indtv.online/sunnxt/sunfun/UdayaMovies.m3u8
+#EXTINF:-1 tvg-id="9014" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="SunNXT",Udaya Comedy
+http://indtv.online/sunnxt/sunfun/UdayaComedy.m3u8
+#EXTINF:-1 tvg-id="26577" tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" group-title="SunNXT",Chintu TV
+http://indtv.online/sunnxt/sunfun/ChintuTV.m3u8
+
+
+#EXTINF:-1 tvg-id="Udaya TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_956/LOGO/lSekdtvD.png" group-title="Airtel FTA",Udaya TV
+http://indtv.online/airtel/udayatv.m3u8
+#EXTINF:-1 tvg-id="Udaya Movies" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_959/LOGO/tvRtvi1Y.png" group-title="Airtel FTA",Udaya Movies
+http://indtv.online/airtel/udayamovies.m3u8
+#EXTINF:-1 tvg-id="Udaya Music" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_955/LOGO/7lufh4gQ.png" group-title="Airtel FTA",Udaya Music
+http://indtv.online/airtel/udayamusic.m3u8
+#EXTINF:-1 tvg-id="Udaya Comedy" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_972/LOGO/mGd2hfSa.png" group-title="Airtel FTA",Udaya Comedy
+http://indtv.online/airtel/udayacomedy.m3u8
+#EXTINF:-1 tvg-id="Udaya HD" group-title="Airtel FTA",Udaya HD
+http://indtv.online/airtel/udayahd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="619" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="Kannada",TV9 Karnataka
+http://indtv.online/jiotv/jtv/TV9_Karnataka.m3u8
+#EXTINF:-1 tvg-id="757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Kannada",Colors Kannada HD
+http://indtv.online/jiotv/jtv/Colors_Kannada_HD.m3u8
+#EXTINF:-1 tvg-id="689" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Kannada",Zee Kannada
+http://indtv.online/jiotv/jtv/Zee_Kannada.m3u8
+#EXTINF:-1 tvg-id="778" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="Kannada",Public TV
+http://indtv.online/jiotv/jtv/Public_TV.m3u8
+#EXTINF:-1 tvg-id="773" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" group-title="Kannada",Public Music
+http://indtv.online/jiotv/jtv/Public_Music.m3u8
+#EXTINF:-1 tvg-id="1073" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png" group-title="Kannada",Samara News
+http://indtv.online/jiotv/jtv/Samara_News.m3u8
+#EXTINF:-1 tvg-id="785" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Kannada",Colors Super
+http://indtv.online/jiotv/jtv/Colors_Super.m3u8
+#EXTINF:-1 tvg-id="713" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Kannada",DD9 chandana (kannada)
+http://indtv.online/jiotv/jtv/DD9_chandana_kannada.m3u8
+#EXTINF:-1 tvg-id="730" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png" group-title="Kannada",Kasturi
+http://indtv.online/jiotv/jtv/Kasturi.m3u8
+#EXTINF:-1 tvg-id="1144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Namma_TV.png" group-title="Kannada",Namma TV
+http://indtv.online/jiotv/jtv/Namma_TV.m3u8
+#EXTINF:-1 tvg-id="923" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="Kannada",Dighvijay TV
+http://indtv.online/jiotv/jtv/Dighvijay_TV.m3u8
+#EXTINF:-1 tvg-id="653" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="Kannada",News18 Kannada
+http://indtv.online/jiotv/jtv/ETV_Kannada_News.m3u8
+#EXTINF:-1 tvg-id="956" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png" group-title="Kannada",TV 5 Kannada
+http://indtv.online/jiotv/jtv/TV_5_Kannada.m3u8
+#EXTINF:-1 tvg-id="743" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="Kannada",Raj Music Kannada
+http://indtv.online/jiotv/jtv/Raj_Music_Kannada.m3u8
+#EXTINF:-1 tvg-id="954" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prajaa_TV.png" group-title="Kannada",Prajaa TV
+http://indtv.online/jiotv/jtv/Prajaa_TV.m3u8
+#EXTINF:-1 tvg-id="370" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" group-title="Kannada",Suvarna HD
+http://hotstar.live.cdn.jio.com/hotstar_isl/starsuvarna/master_800.m3u8|user-agent="Hotstar"
+#EXTINF:-1 tvg-id="1243" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="Kannada",Sonic Kannada
+http://indtv.online/jiotv/jtv/Sonic_Kannada.m3u8
+#EXTINF:-1 tvg-id="1244" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Kannada",Nick Kannada
+http://indtv.online/jiotv/jtv/Nick_Kannada.m3u8
+
